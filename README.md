@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi!
+Most of the things I work on are personally motivated by the dumb problems I shouldn't have to deal with. [`hoop-jumpers`] are made to bypass a specific problem only I ever seem to have (and realistically shouldn't). [`stair-climbers`] are for making tedious things go a lot faster.
 
+If there's some poor soul out there who (god forbid) is going through the same issues as I am, please feel free to use and abuse whatever I've made and jury-rig them to solve your own hyperspecific issues.
 <!--
 **mlemko/mlemko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
